@@ -1,0 +1,9 @@
+{
+  "nota": "Marcas del WMS para las que se compila POS One Pro. Lo escribe el flujo de publicación del repositorio de código; no se edita a mano. La app solo se actualiza desde la marca cuyo dominio coincide con el servidor de su cuenta en la nube.",
+  "marcas": [
+    { "id": "weech",      "nombre": "Weech",      "dominio": "app.weech.com.mx",          "publica": true },
+    { "id": "lsdta",      "nombre": "LSDTA",      "dominio": "app.lasombradetusalas.com", "publica": false },
+    { "id": "makolet",    "nombre": "Makolet",    "dominio": "app.makolet.mx",            "publica": false },
+    { "id": "comsis-hub", "nombre": "Comsis HUB", "dominio": "hub.comsis.space",          "publica": false }
+  ]
+}
